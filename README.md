@@ -10,7 +10,7 @@
 
 ## How to use
 
-Clone the repository with GitBash or similar.
+Clone the repository with Git or similar and use for free, read the `LICENSE`.
 
 ## API
 
