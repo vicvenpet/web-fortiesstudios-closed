@@ -26,6 +26,7 @@ hideToolbar() // Support and native
 
 ### Versions
 
-These methods are static.
+v0.01
 
 ``` kotlin 
+These methods are static.
